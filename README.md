@@ -11,7 +11,7 @@ Go to the [downloads page of Anaconda](https://www.anaconda.com/download/) and s
 2. **OpenCV for Python 2.7**   
 This [page](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html) explains it quite well. 
 ## Running   
-Before running `SOM.py`, a few parameters are to be set.    
+Before running `NG.py`, a few parameters are to be set.    
 ```python
 image_location
 bits_per_codevector
